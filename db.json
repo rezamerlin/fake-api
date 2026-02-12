@@ -1,6 +1,6 @@
-[
-    "users":
-    [{
+{
+    "users": [
+{
         ".id": "*1",
         "attributes": "",
         "disabled": "false",
@@ -999,8 +999,10 @@
         "otp-secret": "",
         "password": "pass100",
         "shared-users": "10"
-    }],"traffic":[
-        {
+    }
+],
+"traffic": [
+{{
         "total-uptime": "238d18h8m58s",
         "total-download": "40.0GiB",
         "total-upload": "61.9GiB",
@@ -1900,5 +1902,5 @@
         "actual-profile": "300 day",
         "attributes-details": ""
     }
-    ]
 ]
+}
